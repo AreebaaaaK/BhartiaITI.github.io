@@ -27,9 +27,10 @@ This repository contains the code for the Bhartia ITI College website. The websi
 - **About Section:** Provides detailed information about the college, including its mission, vision, history, and courses offered.
 - **Faculty Section:** Highlights the faculty members of Bhartia ITI College along with their respective roles.
 - **Contact Information:** Displays the college's contact details, including address, email, phone numbers, and working hours.
-- **Footer:** Includes copyright information and the year of establishment for Bhartia ITI College.
+- **Footer:** Includes copyright information and the year for Bhartia ITI College.
 
-## Subpages
+### Facilities
+The facilities page contains the images of the campus labs, areas and facilities.
 
 ### About Page
 
@@ -37,15 +38,19 @@ The About page provides more detailed information about Bhartia ITI College, inc
 
 ### Certification Page
 
-The Certification page presents information about the certifications offered by Bhartia ITI College. It includes details about the certification programs available, eligibility criteria, and the certification process. Additionally, images of certification ceremonies may be included on this page.
+The Certification page presents information about the certifications offered by Bhartia ITI College. It includes details about the certification programs available, eligibility criteria, and the certification process. Additionally, images of certificates included on this page.
 
 ### Admission Form Page
 
-The Admission Form page allows prospective students to access and fill out the admission form online. It provides instructions on how to complete the form and submit it to the college for further processing. Images of the admission form and guidelines for filling it may be included on this page.
+The Admission Form page allows prospective students to access and fill out the admission form online.
 
 ### Academics Page
 
-The Academics page provides an overview of the academic programs offered by Bhartia ITI College. It includes information about the curriculum, course structure, and examination system. Images of classrooms, labs, and academic activities may be included to showcase the academic environment of the college.
+The Academics page provides an overview of the academic programs offered by Bhartia ITI College. It includes images of academic activities about the curriculum.
+
+### Contact Us
+
+This contains the information about Us through which you can contact us.
 
 
 Thank you for your interest in Bhartiya ITI!
