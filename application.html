@@ -86,7 +86,7 @@
     <div class="container">
         <img class="logo" src="ITI.png" alt="ITI Logo">
         <h2>Admission Form</h2>
-        <form action="#" method="POST" id="admission-form">
+        <form action="/submit" method="POST" id="admission-form">
             <div class="form-group">
                 <label for="Name">Name</label>
                 <input type="text" id="Name" name="Name" required>
@@ -138,8 +138,17 @@
                 </select>
             </div>
             <div class="form-group">
-                <label for="howDidYouKnow">Enter High School Passout Year, Roll Number, Total marks and marks obtained</label>
-                <textarea id="howDidYouKnow" name="howDidYouKnow" required></textarea>
+                <label for="highs">Enter High School Passout Year</label>
+                <input type="text" id="high school" name="Year" required>
+            </div>
+              <div class="form-group">
+                <label for="roll no">Roll No. of high school</label>
+                <input type="text" id="roll" name="roll" required>
+            </div>
+
+           <div class="form-group">
+                <label for="total marks">Total marks and marks obtained in high school</label>
+                <input type="text" id="marks" name="marks" required>
             </div>
             <button type="submit">Submit</button>
         </form>
